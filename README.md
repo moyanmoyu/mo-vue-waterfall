@@ -17,7 +17,7 @@ import Waterfall from './components/waterfall.vue'
 </Waterfall>
 ```
 演示
-![image](waterfall.gif)
+![image](waterfall1.gif)
 
 ## Build Setup
 

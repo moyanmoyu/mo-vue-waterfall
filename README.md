@@ -1,6 +1,7 @@
 # vue-waterfall
 
-> A Vue.js project
+> 根据我的博客写的瀑布流样式
+> 博客地址：www.moyanmoyu.me
 
 ## Build Setup
 

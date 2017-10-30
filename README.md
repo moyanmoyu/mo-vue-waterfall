@@ -16,6 +16,8 @@ import Waterfall from './components/waterfall.vue'
    <Item v-for="(item,index) in items" :item="item" :key="index"></Item>
 </Waterfall>
 ```
+演示
+![image](waterfall.gif)
 
 ## Build Setup
 
